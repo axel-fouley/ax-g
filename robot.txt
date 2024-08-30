@@ -1,0 +1,3 @@
+Disallow: 
+Host: best-templates.carrd.co
+Sitemap: http://best-templates.carrd.co/sitemap.xml
