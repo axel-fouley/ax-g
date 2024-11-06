@@ -1,3 +1,4 @@
-Disallow: 
-Host: best-templates.carrd.co
-Sitemap: http://best-templates.carrd.co/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://ax-g.net/sitemap.xml
