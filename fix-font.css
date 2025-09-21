@@ -1,0 +1,5 @@
+html, body {
+  --framer-font-size-scale: 1 !important;
+  -webkit-text-size-adjust: 100% !important;
+  text-size-adjust: 100% !important;
+}
